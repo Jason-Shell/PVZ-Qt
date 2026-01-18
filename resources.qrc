@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Background.jpg</file>
+        <file>image/Sun.gif</file>
+        <file>image/normalZombie/normalZombieDie.gif</file>
+        <file>image/normalZombie/normalZombieAttack.gif</file>
+        <file>image/normalZombie/normalZombieWalk.gif</file>
+        <file>image/footballZombie/footballZombieAttack.gif</file>
+        <file>image/footballZombie/footballZombieDie.gif</file>
+        <file>image/footballZombie/footballZombieWalk.gif</file>
+        <file>image/bucketZombie/bucketZombieWalk.gif</file>
+        <file>image/bucketZombie/bucketZombieAttack.gif</file>
+        <file>image/bucketZombie/bucketZombieDie.gif</file>
+        <file>image/ConeZombie/ConeZombieWalk.gif</file>
+        <file>image/ConeZombie/ConeZombieDie.gif</file>
+        <file>image/ConeZombie/ConeZombieAttack.gif</file>
+        <file>sounds/background_music.MP3</file>
+        <file>sounds/victory.wav</file>
+        <file>image/shop/Energy.png</file>
+        <file>image/shop/Shop.png</file>
+        <file>image/shop/Shovel.png</file>
+        <file>image/shop/ShovelBank.png</file>
+        <file>image/cards/Card.png</file>
+        <file>image/cards/Peashooter.png</file>
+        <file>image/cards/Pepper.png</file>
+        <file>image/cards/Potato.png</file>
+        <file>image/cards/SunFlower.png</file>
+        <file>image/plant/Boom.gif</file>
+        <file>image/plant/Fire.gif</file>
+        <file>image/plant/SunFlower.gif</file>
+        <file>image/plant/SunFlowerEnhanced.gif</file>
+        <file>image/plant/PeaShooter.gif</file>
+        <file>image/plant/PeaShooterEnhanced.gif</file>
+        <file>image/plant/Pepper.gif</file>
+        <file>image/plant/Potato.gif</file>
+        <file>image/plant/PotatoEnhanced.gif</file>
+        <file>image/plant/Pea.png</file>
+        <file>image/plant/zombiePotato.png</file>
+        <file>image/zombie_eat_brain.png</file>
+    </qresource>
+</RCC>
